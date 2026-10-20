@@ -48,7 +48,7 @@
     "coverage": "vitest --coverage"
   },
   "dependencies": {
-    "uuid": "^11.0.3"
+    "uuid": "^14.0.3"
   },
   "devDependencies": {
     "@effect/experimental": "workspace:^",
